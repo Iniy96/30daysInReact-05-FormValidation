@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/30daysInReact-05-FormValidation/static/css/main.abd64e84.css",
+    "main.js": "/30daysInReact-05-FormValidation/static/js/main.ab06b9c6.js",
+    "index.html": "/30daysInReact-05-FormValidation/index.html",
+    "main.abd64e84.css.map": "/30daysInReact-05-FormValidation/static/css/main.abd64e84.css.map",
+    "main.ab06b9c6.js.map": "/30daysInReact-05-FormValidation/static/js/main.ab06b9c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.ab06b9c6.js"
+  ]
+}
